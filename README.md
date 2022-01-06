@@ -1,0 +1,2 @@
+# policies
+JChip Games Policies
