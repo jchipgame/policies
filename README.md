@@ -10,5 +10,13 @@ https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master
 https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master/sokoban_boxman_collection_android_policy.html
 
 
+### Sokoban (Boxman) Watch Policy
+https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master/sokoban_boxman_watch_android_policy.html
+
+
 ### Photo Album Widget Policy
 https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master/photo_album_widget_android_policy.html
+
+
+### Country Code Policy
+https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master/country_code_android_policy.html
