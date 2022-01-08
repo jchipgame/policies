@@ -24,3 +24,9 @@ https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master
 
 ### Country Code Policy
 https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master/country_code_android_policy.html
+
+### Word Card Policy
+https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master/word_card_android_policy.html
+
+### Common Phrases 900 Policy
+https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master/common_phrases_900_android_policy.html
