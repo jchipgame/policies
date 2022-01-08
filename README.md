@@ -10,6 +10,10 @@ https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master
 https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master/sokoban_boxman_collection_android_policy.html
 
 
+### Sokoban (Boxman) Gianta Policy
+https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master/sokoban_boxman_gianta_android_policy.html
+
+
 ### Sokoban (Boxman) Watch Policy
 https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master/sokoban_boxman_watch_android_policy.html
 
