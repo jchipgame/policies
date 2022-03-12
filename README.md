@@ -17,9 +17,11 @@ https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master
 ### Sokoban (Boxman) Watch Policy
 https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master/sokoban_boxman_watch_android_policy.html
 
+### Sokoban (Boxman) Classic Mac Policy
+https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master/sokoban_boxman_classic_mac_policy.html
+
 ### Sokoban (Boxman) Classic Mac Pal Policy
 https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master/sokoban_boxman_classic_mac_pal_policy.html
-
 
 ### Photo Album Widget Policy
 https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master/photo_album_widget_android_policy.html
