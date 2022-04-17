@@ -42,3 +42,7 @@ https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master
 
 ### Common Phrases 900 Policy
 https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master/common_phrases_900_android_policy.html
+
+### Country Code IOS Policy
+https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master/country_code_ios_policy.html
+
