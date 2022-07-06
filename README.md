@@ -23,6 +23,9 @@ https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master
 ### Sokoban (Boxman) Classic Mac Pal Policy
 https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master/sokoban_boxman_classic_mac_pal_policy.html
 
+### Sokoban (Boxman) Classic Mac ATV Policy
+https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master/sokoban_boxman_classic_mac_atv_policy.html
+
 ### Sokoban Gianta IOS Pal Policy
 https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master/sokoban_gianta_ios_policy.html
 
