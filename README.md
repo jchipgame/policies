@@ -49,8 +49,8 @@ https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master
 ### Country Code IOS Policy
 https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master/country_code_ios_policy.html
 
+### Word Maker Andriod and IOS Policy
+https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master/word_maker_android_apple_policy.html
+
 ### Word Maker Watch Andriod and IOS Policy
 https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master/word_maker_watch_android_apple_policy.html
-
-
-
