@@ -57,3 +57,6 @@ https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master
 
 ### Contry and City Andriod and IOS Policy
 https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master/country_city_android_apple_policy.html
+
+### Rescue Cable Andriod and IOS Policy
+https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master/rescue_cable_android_ios_policy.html
