@@ -60,3 +60,6 @@ https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master
 
 ### Rescue Cable Andriod and IOS Policy
 https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master/rescue_cable_android_ios_policy.html
+
+### Opener Andriod and IOS Policy
+https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master/door_opener_apple_android_policy.html
