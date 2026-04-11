@@ -63,3 +63,6 @@ https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master
 
 ### Opener Andriod and IOS Policy
 https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master/door_opener_apple_android_policy.html
+
+### Outdoor Switch Andriod and IOS Policy
+https://htmlpreview.github.io/?https://github.com/jchipgame/policies/blob/master/outdoor_switch_apple_android_policy.html
